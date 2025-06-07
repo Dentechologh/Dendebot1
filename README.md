@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/+><img src="https://github.com/Dentechnologh.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/+><img src="https://github.com/Dentechnologh.png" width="250" height="250" alt="Dendeson king 👑"/></a>
 
    
