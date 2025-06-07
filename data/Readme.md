@@ -1,0 +1,1 @@
+Dendeson za kingi 
